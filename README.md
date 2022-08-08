@@ -1,9 +1,6 @@
 # NetGear
 
-
-#### NetGear is designed to transfer video frames/data between interconnecting systems over the network in real-time.
-
-#### NetGear implements a wrapper around pebbe/zmq4 golang library that contains golang bindings for ZeroMQ - a high-performance asynchronous distributed messaging library that provides a message queue, but unlike message-oriented middleware, its system can run without a dedicated message broker.
+NetGear implements a wrapper around pebbe/zmq4 golang library that contains golang bindings for ZeroMQ.
 
 ***
 
